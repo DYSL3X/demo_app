@@ -17,7 +17,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: demo_app_development
+  database: demo_app.DB
   pool: 5
   username: demo_appUser
   password: password1
